@@ -1,0 +1,53 @@
+---
+title: "Cybersecurity Awareness"
+output: 
+  html_document:
+    css: styles.css
+---
+
+
+## Warning: Dangers of Using Random USBs
+
+Using random USBs can pose serious security risks!
+
+Here are some dangers associated with using random USBs:
+
+- Malware infection
+- Data theft
+- Identity theft
+- Installation of backdoors or other malicious software
+- Compromise of sensitive information
+
+Always be cautious when connecting unknown USB devices to your computer or other devices.
+
+If you find a USB device, it's best to avoid using it and, if possible, turn it in to the appropriate authorities.
+
+---
+
+## Tips for Cybersecurity
+
+1. Keep your software up-to-date, including operating systems, antivirus programs, and applications.
+2. Use strong, unique passwords for each of your accounts and consider using a password manager to keep track of them.
+3. Be cautious of phishing emails and never click on suspicious links or download attachments from unknown sources.
+4. Enable two-factor authentication whenever possible to add an extra layer of security to your accounts.
+5. Regularly back up your important data to an external hard drive or cloud storage service.
+6. Encrypt sensitive information, especially when transmitting it over the internet or storing it on devices.
+7. Educate yourself about cybersecurity best practices and stay informed about the latest threats and vulnerabilities.
+
+---
+
+## Things to Avoid to Prevent Hacking
+
+- **Avoid Public Wi-Fi:** Public Wi-Fi networks are often insecure and can be easily compromised by hackers. Avoid accessing sensitive information or logging into accounts while connected to public Wi-Fi.
+  
+- **Clicking on Suspicious Links:** Avoid clicking on links in emails, messages, or websites that seem suspicious or come from unknown sources. These links could lead to phishing sites or malware downloads.
+
+- **Ignoring Software Updates:** Always keep your software, operating systems, and antivirus programs updated. Software updates often contain patches for security vulnerabilities that hackers can exploit.
+
+- **Reusing Passwords:** Using the same password for multiple accounts increases the risk of a hacker gaining access to multiple accounts if one password is compromised. Use unique passwords for each account.
+
+- **Sharing Personal Information:** Be cautious about sharing personal information online, especially on social media platforms. Hackers can use this information for social engineering attacks or identity theft.
+
+---
+
+Stay safe online!
